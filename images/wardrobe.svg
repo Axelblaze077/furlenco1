@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="36px" viewBox="0 0 20 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_wardrobe</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ICONS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PLP-3.0-icons" transform="translate(-130.000000, -1330.000000)" fill="#346AA0">
+            <g id="ic_wardrobe" transform="translate(130.000000, 1330.000000)">
+                <g id="Group-12" transform="translate(2.000000, 0.000000)">
+                    <path d="M1.99982143,0.790272418 L14.0305891,0.795876002 C15.1348466,0.796317006 16.0297904,1.69161825 16.0297904,2.79587584 L16.0305893,34.0044747 L-0.000178412585,33.9980725 L-0.000976986911,2.78947368 C-0.000976986911,1.68490418 0.894453513,0.789473684 1.99902301,0.789473684 C1.99928926,0.789473684 1.9995555,0.789473737 1.99982175,0.789473844 Z" id="Rectangle-18"></path>
+                    <path d="M-1.3460589,17.3460589 L17.3460589,17.3460589" id="Line-8" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" transform="translate(8.000000, 17.346059) rotate(90.000000) translate(-8.000000, -17.346059) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

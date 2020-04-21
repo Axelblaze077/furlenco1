@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="36px" viewBox="0 0 46 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_1BK</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ICONS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PLP-3.0-icons" transform="translate(-224.000000, -1678.000000)">
+            <g id="ic_1BHK" transform="translate(224.000000, 1678.000000)">
+                <g id="Group-28" transform="translate(2.000000, 0.000000)">
+                    <path d="M3.0417867,12.8719423 L21,2 L38.9582133,12.8719423 C39.6049215,13.2634609 40,13.9644807 40,14.720469 L40,31.8391111 C40,33.0325371 39.0325371,34 37.8391111,34 L4.16088889,34 C2.96746291,34 2,33.0325371 2,31.8391111 L2,14.720469 C2,13.9644807 2.39507847,13.2634609 3.0417867,12.8719423 Z" id="Rectangle" fill="#346AA0"></path>
+                    <rect id="Rectangle" fill="#FFFFFF" x="13.6559374" y="14.0775401" width="13.6559374" height="14.0775401" rx="2.34"></rect>
+                    <polygon id="1" fill="#346AA0" points="21.882719 25.7164726 19.6937799 25.7164726 19.6937799 18.6236992 17.5436977 19.2631035 17.5436977 17.5756035 21.6819584 16.1188164 21.882719 16.1188164"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

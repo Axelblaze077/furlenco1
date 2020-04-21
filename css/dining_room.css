@@ -1,0 +1,199 @@
+
+#section1{
+  padding-top: 1rem;
+    margin-top: -1rem;
+}
+#section2{
+    padding-top: 10rem;
+    margin-top: -8rem;
+}
+.navfixed{
+    position: fixed;
+    z-index: 9999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    border-bottom: 1px solid  #D3D3D3;
+      }
+.stayopen{
+  display: block !important; 
+}
+
+.btn-primary{
+  border-radius: 50rem;
+  font-size: 10px;
+  font-weight: 500;
+  }
+.rent{
+	font-size: 10px;
+	font-weight: 500;
+	margin-bottom: -10px;
+	padding-top: 5px;
+}
+.navbar-brand{
+	padding-left: 100px ;
+	padding-right: 100px;
+}
+.nav-link{
+	font-weight: 350;
+}
+
+.card-title{
+	font-size: 15px;
+	padding-bottom: 2px;
+	    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.card-text{
+	font-size: 12px;
+}
+
+.price{
+	margin-top: 8x;
+}
+--------------------------
+/* The navigation menu */
+.navbar {
+  overflow: hidden;
+}
+
+/* Navigation links */
+.navbar a {
+  font-size: 13px;
+  color: black;
+  text-align: center;
+  padding: 8px ;
+  padding-right: 20px;
+  text-decoration: none;
+}
+
+/* The subnavigation menu */
+.subnav {
+  float: left;
+  overflow: hidden;
+}
+
+/* Subnav button */
+.subnav .subnavbtn {
+  font-size: 13px;
+  border: none;
+  outline: none;
+  color: black;
+  padding: 10px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+/* Add a red background color to navigation links on hover */
+.navbar a:hover, .subnav:hover .subnavbtn {
+  
+}
+
+/* Style the subnav content - positioned absolute */
+.subnav-content {
+  display: none;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+/* Style the subnav links */
+.subnav-content a {
+  float: left;
+  text-decoration: none;
+}
+
+/* Add a grey background color on hover */
+.subnav-content a:hover {
+  background-color: #eee;
+  color: black;
+}
+
+/* When you move the mouse over the subnav container, open the subnav content */
+.subnav:hover .subnav-content {
+  display: block;
+}
+
+---------------------------------
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding in columns */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 16px;
+  text-align: center;
+ 
+}
+
+/* Responsive columns - one column layout (vertical) on small screens */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+.glowing_button{
+  background-color: white;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Arial;
+  font-size: 13px;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  -webkit-animation: glowing 1500ms infinite;
+  -moz-animation: glowing 1500ms infinite;
+  -o-animation: glowing 1500ms infinite;
+  animation: glowing 1500ms infinite;
+}
+@-webkit-keyframes glowing {
+  0% { background-color: #346aa0; -webkit-box-shadow: 0 0 3px #346aa0; }
+  50% { background-color: #346aa0; -webkit-box-shadow: 0 0 40px #346aa0; }
+  100% { background-color: #346aa0; -webkit-box-shadow: 0 0 3px #346aa0; }
+}
+
+@-moz-keyframes glowing {
+  0% { background-color: #346aa0; -moz-box-shadow: 0 0 3px #346aa0; }
+  50% { background-color: #346aa0; -moz-box-shadow: 0 0 40px #346aa0; }
+  100% { background-color: #346aa0; -moz-box-shadow: 0 0 3px #346aa0; }
+}
+
+@keyframes glowing {
+  0% { background-color: #346aa0; box-shadow: 0 0 3px #346aa0; }
+  50% { background-color: #346aa0; box-shadow: 0 0 40px #346aa0; }
+  100% { background-color: #346aa0; box-shadow: 0 0 3px #346aa0; }
+}
+
+@keyframes glowing {
+  0% { background-color: #346aa0; box-shadow: 0 0 3px #346aa0; }
+  50% { background-color: #346aa0; box-shadow: 0 0 40px #346aa0; }
+  100% { background-color: #346aa0; box-shadow: 0 0 3px #346aa0; }
+}
+
+
+
+
